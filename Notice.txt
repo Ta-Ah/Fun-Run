@@ -1,0 +1,1 @@
+Clone the whole repository. While extracting the zip files choose "extract here" option.
